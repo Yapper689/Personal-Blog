@@ -4,7 +4,7 @@ published: 2024-07-28
 description: ''
 image: 'cover-images/changli.jpg'
 tags: [Game,Tech]
-category: 'Glaze'
+category: 'Appreciation'
 draft: false 
 ---
 The Anime Style Game (ASG) genre has witnessed many new titles recently, with each new one looking more stylized than the last. Among these, Wuthering Waves stands out as a quintessential example of the successful blend of 3D and 2D elements within the Anime, Comic, and Games (ACG) aesthetic. This game exemplifies a level of visual sophistication that has rarely been seen before in the genre, setting a new standard for how anime-inspired games can look.
@@ -43,7 +43,7 @@ They have also conducted extreme test samples for color calibration as part of t
 
 The internal lighting workflow for cutscenes, such as the character PV for Danjin, is another example of how the game’s visual style is maintained. The lighting artists have precise control over light and shadow dynamics through custom lighting components, which allows them to achieve the desired visual effects.
 
-<iframe width="100%" height="522" src="https://www.youtube.com/embed/3bwJOl-ChME" title="Wuthering Waves | Resonator Showcase | Danjin — A WAYFARER&#39;S ESCAPADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="452" src="https://www.youtube.com/embed/3bwJOl-ChME" title="Wuthering Waves | Resonator Showcase | Danjin — A WAYFARER&#39;S ESCAPADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 To meet the visual direction needs of the performance team, the developers utilize UE4's powerful Sequencer system. This tool enables detailed control over visual elements, including keyframe adjustments for various effects. For instance, during the activation effect of marks in characters' ultimate abilities, the shake intensity and frequency can be finely tuned to align with camera requirements, ensuring that the visual impact is both dramatic and coherent.
 
@@ -58,6 +58,10 @@ Portraying character movements and expressions presented several challenges that
 Another challenge involved rendering detailed facial expression shadows. Conventional solutions were insufficient for the intricate lighting required to capture the subtleties of facial expressions during performances. The team enhanced the facial lighting setup to create specialized shadow effects tailored to the specific needs of each performance. This improvement allowed for more accurate representation of vertical and emotional light sources, which was crucial for conveying the intended emotional impact.
 
 Character rigging, particularly in complex and dynamic areas like joints, also posed difficulties. To address these issues, the team adopted Radial Basis Function (RBF) technology. This technology enabled precise modeling of these complex parts, which was quickly validated and integrated into the production process. The use of RBF technology improved the accuracy and fluidity of character movements, enhancing the overall visual quality of the game.
+
+# Gameplay
+
+<iframe width="100%" height="452" src="https://www.youtube.com/embed/1QTrMr57vps" title="Changli and Jinhsi Gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Environment
 

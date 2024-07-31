@@ -4,7 +4,7 @@ published: 2024-07-03
 description: ''
 image: 'cover-images/hecooked.png'
 tags: [Manga]
-category: 'Glaze'
+category: 'Appreciation'
 draft: false 
 ---
 Fujimoto Tatsuki's "Chainsaw Man" just hits different. Unlike most manga where there's just constant yapping, "Chainsaw Man" hooks you with every single page. ‘Absolute cinema’ as it stands, when reading it is actually like watching a movie, where the characters' expressions shine through vividly and the dialogues are sharp and to the point.
